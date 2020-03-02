@@ -11,6 +11,15 @@
   "dependencies": {
     "@popperjs/core": "^2.0.6",
     "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
     "jquery": "^3.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriaosoriou/express-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valeriaosoriou/express-project/issues"
+  },
+  "homepage": "https://github.com/valeriaosoriou/express-project#readme"
 }

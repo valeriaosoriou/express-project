@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Tadeas",
+  "last_name": "Van Daalen",
+  "gender": "Male",
+  "car_make": "Toyota",
+  "car_model": "Prius Plug-in"
+}, {
+  "id": 2,
+  "first_name": "Fleming",
+  "last_name": "Balcers",
+  "gender": "Male",
+  "car_make": "Buick",
+  "car_model": "Regal"
+}, {
+  "id": 3,
+  "first_name": "Pansie",
+  "last_name": "Rigg",
+  "gender": "Female",
+  "car_make": "Toyota",
+  "car_model": "Sienna"
+}, {
+  "id": 4,
+  "first_name": "Chaddy",
+  "last_name": "Noblett",
+  "gender": "Male",
+  "car_make": "Chevrolet",
+  "car_model": "Corvette"
+}, {
+  "id": 5,
+  "first_name": "Bunny",
+  "last_name": "Bessom",
+  "gender": "Female",
+  "car_make": "Jeep",
+  "car_model": "Compass"
+}, {
+  "id": 6,
+  "first_name": "Lorena",
+  "last_name": "Boggish",
+  "gender": "Female",
+  "car_make": "Ford",
+  "car_model": "Mustang"
+}, {
+  "id": 7,
+  "first_name": "Braden",
+  "last_name": "de Merida",
+  "gender": "Male",
+  "car_make": "Buick",
+  "car_model": "Reatta"
+}, {
+  "id": 8,
+  "first_name": "Markus",
+  "last_name": "Snipe",
+  "gender": "Male",
+  "car_make": "Ford",
+  "car_model": "Fusion"
+}, {
+  "id": 9,
+  "first_name": "Miner",
+  "last_name": "Biaggioni",
+  "gender": "Male",
+  "car_make": "Oldsmobile",
+  "car_model": "Alero"
+}, {
+  "id": 10,
+  "first_name": "Claude",
+  "last_name": "Simkovich",
+  "gender": "Female",
+  "car_make": "Mitsubishi",
+  "car_model": "Mirage"
+}]
